@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Joshua Bertone">
+  <img src="./banner.jpg" width="100%" alt="Joshua Bertone">
 </p>
 
 ---
