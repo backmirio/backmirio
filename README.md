@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="./kingdom-banner.png" width="100%" alt="Kingdom">
-</p>
-
-<h1 align="center">Joshua Bertone</h1>
-
-<p align="center">
-  Junior Game Developer & Software Developer
-</p>
-
-<p align="center">
-  Passionate about game development, programming and building tools that make everyday tasks simpler.
+  <img src="./banner.png" width="100%" alt="Joshua Bertone">
 </p>
 
 ---
