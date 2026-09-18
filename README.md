@@ -2,7 +2,7 @@
   <img src="./kingdom-banner.png" width="100%" alt="Kingdom">
 </p>
 
-<h1 align="center">backmirio</h1>
+<h1 align="center">Joshua Bertone</h1>
 
 <p align="center">
   Game Developer
