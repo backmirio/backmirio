@@ -77,11 +77,4 @@ Check out my pinned repositories for the latest work.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-
 </div>
